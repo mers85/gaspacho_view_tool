@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+GaspachoViewTool::Renderer.copyright 'Gaspacho', 'All rights reserved'
+```
 
 ## Development
 
